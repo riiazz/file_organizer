@@ -1,6 +1,3 @@
-# file_organizer
-CLI file organizer
-
 # File Organizer
 
 A command-line tool written in Rust to organize files by extension. It asks for a folder path, an extension, and a target folder, then moves all matching files into the chosen folder.
@@ -21,12 +18,16 @@ A command-line tool written in Rust to organize files by extension. It asks for 
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
-2. Build the project: cargo build --release
-3. Run: cargo run
+2. Build the project:
+   ```
+   cargo build --release
+4. Run:
+   ```
+   cargo run
+   ```
 
-
-Example:
-
+## Example:
+```
 Folder name:
 > /home/user/downloads
 
