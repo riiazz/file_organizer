@@ -16,8 +16,8 @@ A command-line tool written in Rust to organize files by extension. It asks for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/riiazz/file_organizer.git
+   cd file_organizer
 2. Build the project:
    ```
    cargo build --release
